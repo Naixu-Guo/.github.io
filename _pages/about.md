@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Naixu Guo (郭 乃绪), a Ph.D. student at CQT(NUS) advised by Patrick Rebentrost and Miklos Santha.
-In life, I am also a Guqin (古琴) player, advised by Muka Fushimi and graduated in 2022.
+I am Naixu Guo (郭 乃绪), a Ph.D. student at CQT(NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en).
+In life, I am also a [Guqin (古琴)](https://www.bilibili.com/video/BV1Cp4y1W7mF/?vd_source=e064aa5c778fd7d6029361e1f3255d9b) player, advised by Muka Fushimi and graduated in 2022.
 
 Research interests
 ======
