@@ -43,7 +43,7 @@ Honors, Awards, Fellowships
 
 * [2017--2022] Hirose International Scholarship
   * Hirose Foundation
-  * For outstanding international undergraduate students
+  * For outstanding international students
 
 * [2016--2017] Monbukagakusho Honors Scholarship
   * Monbukagakusho
