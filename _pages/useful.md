@@ -35,7 +35,7 @@ Quantum proofs by Thomas Vidick and John Watrous [url](https://arxiv.org/abs/161
 **Other useful resources**
 ------
 
-Spectral graph theory* by Daniel Spielman [url](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)
+Spectral graph theory by Daniel Spielman [url](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)
    
 Markov chain and mixing times* by David A. Levin, *etc* [url](http://www.cs.cmu.edu/~15859n/RelatedWork/MarkovChains-MixingTimes.pdf)
    
