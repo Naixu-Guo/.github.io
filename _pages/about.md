@@ -22,3 +22,23 @@ Publications
 
 * S. Yang, **N. Guo**, M. Santha and P. Rebentrost, *Quantum Alphatron: quantum advantage for learning with kernels and noise*, [arxiv:2108.11670](https://arxiv.org/abs/2108.11670), submitted
 
+
+Talks
+======
+
+##Conferences
+- Nonlinear transformation of complex amplitudes via quantum singular value transformation 
+
+  Recommended short talk at [Qleap AI workshop](https://qleap-qai.jp) [[Slides (Japanese)]](https://drive.google.com/file/d/1Y0f48uYliyMXGqAIoS9RWPujcSc5euIi/view?usp=sharing)
+
+  Accepted poster at [TQC 21](https://tqc2021.lu.lv/) [[Poster]](https://drive.google.com/file/d/1cFB-CUBnA7koun60nT_IEEx4uFhnICk7/view?usp=sharing)
+  
+  Accepted poster at [QIP 21](https://www.mcqst.de/qip2021/) [[Poster]](https://drive.google.com/file/d/184jUftu5RYpeL6bULCRj_wjWqxnI2Qqq/view?usp=sharing)
+  
+  Accepted at [AQIS 20](http://aqis-conf.org/2020/) [[Slides]](https://drive.google.com/file/d/1H-jIOYfV-fKAgUWwQQ_7-luebPAsufhF/view?usp=sharing)
+  
+  
+##Invited talks
+- Nonlinear transformation of complex amplitudes via quantum singular value transformation
+
+  Invited talk at Nagoya University [[Slides]](https://drive.google.com/file/d/1Zf-U_e8FYVwcK1CibgPA5IrKzNWyLzXS/view?usp=sharing) 
