@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Applied Physics, Kyoto University, 2020
+* M.E. in Electrical Engineering, Osaka University, 2022
+  * Supervisor: Keisuke Fujii
+* Ph.D in Computer Science(Quantum Information), National Univesity of Singapore, 2026 (expected)
+
+Research intern experience
+======
+* 2021.07 -- 2022.03: Research student
+  * Nagoya University
+  * Supervisor: Francois Le Gall
+
+* 2019.03 -- 2019.07: Research student
+  * Kyoto University
+  * Supervisor: Keisuke Fujii
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Investment and Research Assistant
+  * MiraclePlus(former Y Combinator)
+  * Duties included: Squad leader for deal sourcing abroad startups and research
+  * Contributions: Invest two seed-round startups and one angel-round startups
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Honors, Awards, Fellowships
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* [2022] Distinguished Scholarship Award
+  * National University of Singapore
+  * For applicants with particularly strong application
+
+* [2017--2022] Hirose International Scholarship
+  * Hirose Foundation
+  * For outstanding international undergraduate students
+
+* [2016--2017] Monbukagakusho Honors Scholarship
+  * Monbukagakusho
+  * For international students with excellent academic and character records
+
+
+Professional Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Journal and Conference reviewer
+  * Quantum, QIP2023
