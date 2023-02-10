@@ -26,7 +26,7 @@ Publications
 Talks
 ======
 
-##Conferences
+## Conferences
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation 
 
   Recommended short talk at [Qleap AI workshop](https://qleap-qai.jp) [[Slides (Japanese)]](https://drive.google.com/file/d/1Y0f48uYliyMXGqAIoS9RWPujcSc5euIi/view?usp=sharing)
@@ -38,7 +38,7 @@ Talks
   Accepted at [AQIS 20](http://aqis-conf.org/2020/) [[Slides]](https://drive.google.com/file/d/1H-jIOYfV-fKAgUWwQQ_7-luebPAsufhF/view?usp=sharing)
   
   
-##Invited talks
+## Invited talks
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation
 
   Invited talk at Nagoya University [[Slides]](https://drive.google.com/file/d/1Zf-U_e8FYVwcK1CibgPA5IrKzNWyLzXS/view?usp=sharing) 
