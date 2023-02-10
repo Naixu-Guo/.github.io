@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About-- Naixu Guo"
+title                    : "Naixu Guo"
 title_separator          : "-"
 name                     : &name "Naixu Guo"
 description              : &description "Home page"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Naixu Guo"
   avatar           : "profile.png"
   bio              : "Researcher wandering the path between quantum physics and computer science"
-  location         : "Location"
+  location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=r2I_WtAAAAAJ&view_op=list_works&gmla=AJsN-F4R90e-0IvThoZVAs4uhYFfG-2VP_Hbd4-qNcW5mjlNq_E1YFT_x18SVcVfvzNbs5mUamJeu5JO9TYKLj-oE7tjlBhtyFsy7fG-057qZH6Nj_YHmCg"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/gnx_kns"
   vine             :
   weibo            :
   xing             :
