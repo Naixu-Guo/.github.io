@@ -25,6 +25,7 @@ Publications
 
 Talks
 ======
+Please notice that attached slides only reflect the speaker's thoughts at that moment and probably consist of errors.
 
 ## Conferences
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation 
