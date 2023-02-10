@@ -18,7 +18,7 @@ I am also broadly interested in theoretical computer science and theoretical phy
 
 Publications
 ======
-* **N. Guo**, K. Mitarai and K. Fujii, *Nonlinear transformation of complex amplitudes via quantum singular value transformation*, (arxiv:2107.10764)[https://arxiv.org/abs/2107.10764]
+* **N. Guo**, K. Mitarai and K. Fujii, *Nonlinear transformation of complex amplitudes via quantum singular value transformation*, [arxiv:2107.10764](https://arxiv.org/abs/2107.10764)
 
-* S. Yang, **N. Guo**, M. Santha and P. Rebentrost, *Quantum Alphatron: quantum advantage for learning with kernels and noise*, (arxiv:2108.11670)[https://arxiv.org/abs/2108.11670], submitted
+* S. Yang, **N. Guo**, M. Santha and P. Rebentrost, *Quantum Alphatron: quantum advantage for learning with kernels and noise*, [arxiv:2108.11670](https://arxiv.org/abs/2108.11670), submitted
 
