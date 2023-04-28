@@ -19,7 +19,7 @@ My research interests are centered around exploring the intersection of computer
 * AI for Physics: Explore complex quantum systems from computation and learning aspect
 * Physics for AI: Interpretation for recent deep-learning black-boxes from statistical and physics aspect
 
-![avatar]()
+![avatar](_pages/Research_interest.png)
 
 Publications
 ======
