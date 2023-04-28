@@ -15,7 +15,7 @@ In daily, I usually use my secondary personal name Wenyuan (文渊).
 Research interests
 ======
 My research interests are centered around exploring the intersection of computer science and physics in general, including but not limited to
-* Quantum computing: possible applications for quantum technologies, especially for (early) Fault tolerant quantum computers
+* Quantum computing: Possible applications for quantum technologies, especially for (early) Fault tolerant quantum computers
 * AI for Physics: Explore complex quantum systems from computation and learning aspect
 * Physics for AI: Interpretation for recent deep-learning black-boxes from statistical and physics aspect
 
