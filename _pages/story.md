@@ -4,7 +4,7 @@ title: "Miscellaneous"
 permalink: /story/
 author_profile: true
 redirect_from:
-  - /story
+  - / story
 ---
 
 {% include base_path %}
