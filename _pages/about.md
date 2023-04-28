@@ -20,7 +20,7 @@ My research interests are centered around exploring the intersection of computer
 * Physics for AI: Interpretation for recent deep-learning black-boxes from statistical and physics aspect
 
 
-![avatar](_pages/Research_interest.png)
+![avatar](https://drive.google.com/file/d/1HqoTfxtIgvEcFCJ69Uf1-v2hEIsF-tA2/view?usp=share_link)
 
 Publications
 ======
