@@ -17,7 +17,7 @@ If you also enjoy it, please feel free to contact me.
 
 Some additional works
 ======
-* Seeing the great potential for recent LLM progress, yet there are still so many people who do not even know these, my friends and I write a book to introduce these and hands-on propmt engineering. The book is called 《驾驭ChatGPT：学会提示词》. This book will be buyable quite soon.
+* Seeing the great potential for recent LLM progress, yet there are still so many people who do not even know these, my friends and I write a book to introduce these and hands-on propmt engineering. The book is called 《驾驭ChatGPT：学会提示词》. This book will become buyable quite soon.
 
   
 
