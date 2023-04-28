@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am Naixu Guo (郭 乃绪), a Ph.D. student at CQT(NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en).
-In life, I am also a [Guqin (古琴)](https://www.bilibili.com/video/BV1Cp4y1W7mF/?vd_source=e064aa5c778fd7d6029361e1f3255d9b) player, advised by Muka Fushimi and graduated in 2022.
+I am Naixu Guo (郭 乃绪), a Ph.D. student at [CQT](https://www.quantumlah.org/) (NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en).
+In daily, I usually use my secondary personal name Wenyuan (文渊).
+
 
 Research interests
 ======
-My research aims to understand fundamental computational and learning ability of quantum systems and possible applications of quantum computers.
-I am also broadly interested in theoretical computer science and theoretical physics.
+My research interests are centered around exploring the intersection of computer science and physics in general, including but not limited to
+* Quantum computing: possible applications for quantum technologies, especially for (early) Fault tolerant quantum computers
+* AI for Physics: Explore complex quantum systems from computation and learning aspect
+* Physics for AI: Interpretation for recent deep-learning black-boxes from statistical and physics aspect
+
+![avatar]()
 
 Publications
 ======
