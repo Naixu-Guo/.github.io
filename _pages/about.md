@@ -15,7 +15,7 @@ In daily, I usually use my secondary personal name Wenyuan (文渊).
 Research interests
 ======
 My research interests are centered around exploring the intersection of computer science and physics in general, including but not limited to
-* Quantum computing: Possible applications for quantum technologies, especially for (early) Fault tolerant quantum computers
+* Quantum computing: Possible applications for quantum technologies, especially for (early) fault-tolerant quantum computers
 * AI for Physics: Explore complex quantum systems from computation and learning aspect
 * Physics for AI: Interpretation for recent deep-learning black-boxes from statistical and physics aspect
 
@@ -24,9 +24,9 @@ My research interests are centered around exploring the intersection of computer
 
 Publications
 ======
-* **N. Guo**, K. Mitarai and K. Fujii, *Nonlinear transformation of complex amplitudes via quantum singular value transformation*, [arxiv:2107.10764](https://arxiv.org/abs/2107.10764), submitted
-
 * S. Yang, **N. Guo**, M. Santha and P. Rebentrost, *Quantum Alphatron: quantum advantage for learning with kernels and noise*, [arxiv:2108.11670](https://arxiv.org/abs/2108.11670), submitted
+
+* **N. Guo**, K. Mitarai and K. Fujii, *Nonlinear transformation of complex amplitudes via quantum singular value transformation*, [arxiv:2107.10764](https://arxiv.org/abs/2107.10764), submitted
 
 
 Talks
