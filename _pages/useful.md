@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here are some useful resources I find.
+
 **Quantum algorithm**
 ------
 Lecture notes by Lin Lin [url](https://math.berkeley.edu/~linlin/qasc/qasc_notes.pdf)
