@@ -17,7 +17,7 @@ If you also enjoy it, please feel free to contact me.
 
 Some additional works
 ======
-* Seeing the great potential for recent LLM progress, yet there are still so many people who do not even know these, my friends and I write a book to introduce these and hands-on propmt engineering. The book is called 《驾驭ChatGPT：学会提示词》. This book will become buyable quite soon.
+* My friends and I wrote a book to introduce the recent progress of AI (especially about LLMs) and hands-on propmt engineering for people who are not that familiar with the frontier technology. The book is called 《驾驭ChatGPT：学会提示词》, and you may buy from Jingdong (京东) or Tiktok.
 
   
 
