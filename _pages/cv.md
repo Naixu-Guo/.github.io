@@ -30,7 +30,7 @@ Work experience
 ======
 * Summer 2022: Investment and Research Assistant
   * MiraclePlus(former Y Combinator)
-  * Duties included: Squad leader for deal sourcing abroad startups and research
+  * Duties included: Lead a squad for deal sourcing, industry research
   * Contributions: Invest two seed-round startups and one angel-round startups
 
   
