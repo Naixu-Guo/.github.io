@@ -33,6 +33,11 @@ Survey of quantum learning by Srinivasan Arunachalam and Ronald de Wolf [link](h
 Lecture notes by Thomas Vidick [link](http://users.cms.caltech.edu/~vidick/teaching/286_qPCP/index.html)
    
 Quantum proofs by Thomas Vidick and John Watrous [link](https://arxiv.org/abs/1610.01664)
+
+**Quantum information**
+------
+
+Haar measure tools in QI by Antonio [link](https://arxiv.org/pdf/2307.08956.pdf)
    
 **Other useful resources**
 ------
