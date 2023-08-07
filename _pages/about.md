@@ -25,7 +25,7 @@ My research interests are centered around exploring the intersection of computer
 Publications
 ======
 * **N. Guo**, P. Rebentrost, *Estimating properties of a quantum state by importance-sampled operator shadows*, [arxiv:2305.09374](https://arxiv.org/abs/2305.09374)
-* S. Yang, **N. Guo**, M. Santha and P. Rebentrost, *Quantum Alphatron: quantum advantage for learning with kernels and noise*, [arxiv:2108.11670](https://arxiv.org/abs/2108.11670), submitted
+* S. Yang, **N. Guo**, M. Santha and P. Rebentrost, *Quantum Alphatron: quantum advantage for learning with kernels and noise*, [*Quantum*](https://arxiv.org/abs/2108.11670)
 
 * **N. Guo**, K. Mitarai and K. Fujii, *Nonlinear transformation of complex amplitudes via quantum singular value transformation*, [arxiv:2107.10764](https://arxiv.org/abs/2107.10764), submitted
 
