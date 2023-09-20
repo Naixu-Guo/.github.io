@@ -12,6 +12,7 @@ redirect_from:
 This page provides a collection of some references I personally find useful for the study and research. Please feel free to send me an email if you have any good suggestions.
 
 # Quantum
+---
 **Algorithm**
 ------
 Lecture note by Andrew Childs [link](http://www.cs.umd.edu/~amchilds/qa/)
