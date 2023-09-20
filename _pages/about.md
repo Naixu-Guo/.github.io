@@ -28,7 +28,7 @@ With the amazing practical performances of artificial intelligence, I also wonde
 
 Publications
 ======
-All of my works are also available on my [arXiv](https://scirate.com/Naixu-Guo/papers) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=r2I_WtAAAAAJ&view_op=list_works&gmla=AJsN-F4R90e-0IvThoZVAs4uhYFfG-2VP_Hbd4-qNcW5mjlNq_E1YFT_x18SVcVfvzNbs5mUamJeu5JO9TYKLj-oE7tjlBhtyFsy7fG-057qZH6Nj_YHmCg) pages.
+All of my works are also available on my [ArXiv](https://scirate.com/Naixu-Guo/papers) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=r2I_WtAAAAAJ&view_op=list_works&gmla=AJsN-F4R90e-0IvThoZVAs4uhYFfG-2VP_Hbd4-qNcW5mjlNq_E1YFT_x18SVcVfvzNbs5mUamJeu5JO9TYKLj-oE7tjlBhtyFsy7fG-057qZH6Nj_YHmCg) pages.
 
 * L. Zhao, **N. Guo**, M. Luo, P. Rebentrost, *Provable learning of quantum states with graphical models*, [arxiv:2309.09235](https://arxiv.org/abs/2309.09235)
 * **N. Guo**, P. Rebentrost, *Estimating properties of a quantum state by importance-sampled operator shadows*, [arxiv:2305.09374](https://arxiv.org/abs/2305.09374)
