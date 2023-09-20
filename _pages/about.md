@@ -15,7 +15,7 @@ Daily, I usually use my secondary personal name Wenyuan (文渊).
 Research interests
 ======
 The fundamental research problem for me is the *nature-intelligence interaction*, including
-* How far can intelligence learn about nature?
+* How much can intelligence learn about nature?
 * How well can intelligence play with nature, maybe crazy enough to program the universe?
 * Can we quantify what is intelligence and enhance it?
 
