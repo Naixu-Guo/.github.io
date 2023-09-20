@@ -12,6 +12,7 @@ redirect_from:
 This page provides a collection of some references I personally find useful for the study and research. Please feel free to send me an email if you have any good suggestions.
 
 # Quantum
+----
 **Algorithm**
 ------
 Lecture note by Andrew Childs [link](http://www.cs.umd.edu/~amchilds/qa/)
@@ -45,7 +46,7 @@ Lecture note by Lin Lin [link](https://math.berkeley.edu/~linlin/qasc/qasc_notes
 ------
 [Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI-notes/)
 
-
+\\
 
 # Machine learning
 ----
@@ -59,6 +60,8 @@ Lecture note by Tengyu Ma [link](https://docs.google.com/viewer?url=https://raw.
 [The Information Bottleneck Problem and Its Applications in Machine Learning](https://arxiv.org/abs/2004.14941)
 
 [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
+
+\\
 
 # Others
 ----
