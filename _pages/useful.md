@@ -11,7 +11,7 @@ redirect_from:
 
 Here are some useful resources I find.
 
-#Quantum
+# Quantum
 
 
 **Quantum algorithm**
