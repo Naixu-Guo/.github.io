@@ -49,6 +49,7 @@ Lecture note by Lin Lin [link](https://math.berkeley.edu/~linlin/qasc/qasc_notes
 
 
 # Machine learning
+----
 
 Lecture note by Arthur Gretton [link](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html)
 
@@ -61,6 +62,8 @@ Lecture note by Tengyu Ma [link](https://docs.google.com/viewer?url=https://raw.
 [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
 
 # Others
+----
+
 [Spectral graph theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)
    
 [Markov chain and mixing times](http://www.cs.cmu.edu/~15859n/RelatedWork/MarkovChains-MixingTimes.pdf)
