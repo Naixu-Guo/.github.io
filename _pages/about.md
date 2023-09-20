@@ -9,15 +9,19 @@ redirect_from:
 ---
 
 I am Naixu Guo (郭 乃绪), a Ph.D. student at [CQT](https://www.quantumlah.org/) (NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en).
-In daily, I usually use my secondary personal name Wenyuan (文渊).
+Daily, I usually use my secondary personal name Wenyuan (文渊).
 
 
 Research interests
 ======
-My research interests are centered around exploring the intersection of computer science and physics in general, including but not limited to
-* Quantum computing: Possible applications for quantum technologies, especially for (early) fault-tolerant quantum computers
-* AI for Physics: Explore complex quantum systems from computation and learning aspect
-* Physics for AI: Interpretation for recent deep-learning black-boxes from statistical and physics aspect
+The fundamental research problem for me is the *nature-intelligence interaction*, including
+* How far can intelligence learn about nature?
+* How well can intelligence play with nature, maybe crazy enough to program the universe?
+* Can we quantify what is intelligence and enhance it?
+
+I seek to use physics as the language of nature and computational methodologies to quantify learnability.
+Right now, for "intelligence", I focus on our human beings; for nature, I mainly consider quantum systems.
+With the amazing practical performances of artificial intelligence, I also wonder how these results can help us to deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
 
 
 ![avatar](_pages/Research_interest.png)
@@ -32,7 +36,7 @@ Publications
 
 Talks
 ======
-Please notice that attached slides only reflect the speaker's thoughts at that moment and probably consist of errors.
+I just wanted to let you know that the attached slides only reflect the speaker's thoughts at that moment and probably consist of errors.
 
 ## Conferences
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation 
