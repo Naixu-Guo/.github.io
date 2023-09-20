@@ -11,6 +11,9 @@ redirect_from:
 
 Here are some useful resources I find.
 
+#Quantum
+
+
 **Quantum algorithm**
 ------
 Lecture notes by Lin Lin [link](https://math.berkeley.edu/~linlin/qasc/qasc_notes.pdf)
