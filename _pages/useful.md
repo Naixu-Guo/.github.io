@@ -53,7 +53,7 @@ Lecture note by Lin Lin [link](https://math.berkeley.edu/~linlin/qasc/qasc_notes
 
 Lecture note by Arthur Gretton [link](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html)
 
-Learning theory by Tengyu Ma [link](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tengyuma/cs229m_notes/main/master.pdf)
+Lecture note by Tengyu Ma [link](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tengyuma/cs229m_notes/main/master.pdf)
 
 [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers)
 
