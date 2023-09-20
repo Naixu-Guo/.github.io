@@ -46,7 +46,7 @@ Lecture note by Lin Lin [link](https://math.berkeley.edu/~linlin/qasc/qasc_notes
 ------
 [Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI-notes/)
 
-\\
+<br/>
 
 # Machine learning
 ----
@@ -61,7 +61,7 @@ Lecture note by Tengyu Ma [link](https://docs.google.com/viewer?url=https://raw.
 
 [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
 
-\\
+<br/>
 
 # Others
 ----
