@@ -14,15 +14,16 @@ Daily, I usually use my secondary personal name Wenyuan (文渊).
 
 Research interests
 ======
-The fundamental research problem for me is the *nature-intelligence interaction*, including
-* How far can intelligence learn about nature?
-* How well can intelligence play with nature, maybe crazy enough to program the universe?
-* Can we quantify what is intelligence and enhance it?
+My current research interests involve quantum information science, with a focus on quantum learning and quantum algorithms.
+Some of the topics that I am actively considering are
+* Can the classical ML methods help to probe quantum systems with theoretical guarantees?
+* What kind of (properties of) quantum systems that are efficiently learnable?
+* How to simplify the current quantum algorithms? e.g., early fault-tolerant
+With the great practical progress of artificial intelligence, I also wonder how these results can help us to deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
 
+The polar star of my research direction is the *nature-intelligence interaction*, e.g., how far can intelligence learn and utilize nature, can we quantify what intelligence is and enhance it?
 I seek to use physics as the language of nature and computational methodologies to quantify learnability.
-Right now, for "intelligence", I focus on our human beings; for nature, I mainly consider quantum systems.
-With the amazing practical performances of artificial intelligence, I also wonder how these results can help us to deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
-
+For "intelligence", maybe information theory can help.
 
 ![avatar](_pages/Research_interest.png)
 
