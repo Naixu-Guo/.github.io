@@ -20,7 +20,7 @@ Some of the topics that I am actively considering are
 * What kind of (properties of) quantum systems that are efficiently learnable?
 * How to simplify the current quantum algorithms? e.g., early fault-tolerant
   
-With the great practical progress of artificial intelligence, I also wonder how these results can help us to deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
+With the great progress of artificial intelligence, I also wonder how these can help deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
 
 The polar star of my research direction is the *nature-intelligence interaction*, e.g., how far can intelligence learn and utilize nature, can we quantify what intelligence is and enhance it?
 I seek to use physics as the language of nature and computational methodologies to quantify learnability.
