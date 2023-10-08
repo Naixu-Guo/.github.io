@@ -19,7 +19,7 @@ Some of the topics that I am actively considering are
 * Can the ML methods help to probe quantum systems with theoretical guarantees?
 * What kind of (properties of) quantum systems that are efficiently learnable?
 * How to simplify the current quantum algorithms? e.g., early fault-tolerant
-* 
+  
 With the great practical progress of artificial intelligence, I also wonder how these results can help us to deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
 
 The polar star of my research direction is the *nature-intelligence interaction*, e.g., how far can intelligence learn and utilize nature, can we quantify what intelligence is and enhance it?
