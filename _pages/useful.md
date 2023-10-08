@@ -13,6 +13,7 @@ This page provides a collection of some references I personally find useful for 
 
 # Quantum
 ----
+
 **Algorithm**
 -----
 Lecture note by Andrew Childs [link](http://www.cs.umd.edu/~amchilds/qa/)
