@@ -22,8 +22,7 @@ Some of the topics that I am actively considering are
   
 With the great progress of artificial intelligence, I also wonder how these can help deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
 The polar star of my research direction is the *nature-intelligence interaction*, e.g., how far can intelligence learn and utilize nature, can we quantify what intelligence is and enhance it?
-I seek to use physics as the language of nature and computational methodologies to quantify learnability.
-For "intelligence", maybe information theory can help.
+
 
 ![avatar](_pages/Research_interest.png)
 
