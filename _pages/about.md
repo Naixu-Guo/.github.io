@@ -47,6 +47,10 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
   
   
 ## Invited talks
+- Estimating properties of a quantum state by importance-sampled operator shadows
+
+  CQT joint CS seminar
+
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation
 
   Nagoya University [[Slides]](https://drive.google.com/file/d/1Zf-U_e8FYVwcK1CibgPA5IrKzNWyLzXS/view?usp=sharing) 
