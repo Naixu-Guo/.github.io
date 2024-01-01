@@ -47,9 +47,12 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
   
   
 ## Invited talks
+- Provable learning of quantum states with graphical models
+  Peking University
+
 - Estimating properties of a quantum state by importance-sampled operator shadows
 
-  CQT joint CS seminar
+  CQT joint CS seminar, Westlake University
 
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation
 
