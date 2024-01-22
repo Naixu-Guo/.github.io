@@ -25,14 +25,6 @@ Research intern experience
 * 2019.03 -- 2019.07: Research student
   * Kyoto University
   * Supervisor: Keisuke Fujii
-
-Work experience
-======
-* Summer 2022: Investment and Research Assistant
-  * MiraclePlus(former Y Combinator)
-  * Duties included: Lead a squad for deal sourcing, industry research
-  * Contributions: Invest two seed-round startups and one angel-round startups
-
   
 
 Honors, Awards, Fellowships
