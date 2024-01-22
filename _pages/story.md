@@ -15,9 +15,5 @@ In life, I am also a [Guqin (古琴)](https://www.bilibili.com/video/BV1Cp4y1W7m
 I really love this Chinese traditional instrument.
 If you also enjoy it, please feel free to contact me.
 
-Some additional works
-======
-* My friends and I wrote a book to introduce the recent progress of AI (especially about LLMs) and hands-on propmt engineering for people who are not that familiar with the frontier technology. The book is called 《驾驭ChatGPT：学会提示词》, and you may buy from Jingdong (京东) or Tiktok.
-
   
 
