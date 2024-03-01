@@ -14,7 +14,7 @@ Daily, I usually use my secondary personal name Wenyuan (文渊).
 
 Research interests
 ======
-My current research interests involve quantum information science, with a focus on quantum algorithms in general, including learning.
+My current research interests involve quantum information science and machine learning.
 Some of the topics that I am actively considering are
 * Quantum linear algebra and its applications
 * Understanding quantum many-body systems via the lens of (theoretical) computer science
