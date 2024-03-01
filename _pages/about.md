@@ -20,7 +20,7 @@ Some of the topics that I am actively considering are
 * Understanding quantum many-body systems via the lens of (theoretical) computer science
 * Mechanical explanation of large AI models
   
-The polar star of my research direction is the *nature-intelligence interaction*.
+The polar star of my research direction is the intersection between nature and intelligence.
 
 
 ![avatar](_pages/Research_interest.png)
