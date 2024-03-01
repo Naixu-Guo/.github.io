@@ -14,14 +14,13 @@ Daily, I usually use my secondary personal name Wenyuan (文渊).
 
 Research interests
 ======
-My current research interests involve quantum information science, with a focus on quantum learning and quantum algorithms.
+My current research interests involve quantum information science, with a focus on quantum algorithms in general, including learning.
 Some of the topics that I am actively considering are
-* Can the ML methods help to probe quantum systems with theoretical guarantees?
-* What kind of (properties of) quantum systems that are efficiently learnable?
-* How to simplify the current quantum algorithms? e.g., early fault-tolerant
+* Quantum linear algebra and its applications
+* Understanding quantum many-body systems via the lens of (theoretical) computer science
+* Mechanics explanation of large AI models
   
-With the great progress of artificial intelligence, I also wonder how these can help deepen our understanding of intelligence and the possibility of accelerating scientific discovery.
-The polar star of my research direction is the *nature-intelligence interaction*, e.g., how far can intelligence learn and utilize nature, can we quantify what intelligence is and enhance it?
+The polar star of my research direction is the *nature-intelligence interaction*.
 
 
 ![avatar](_pages/Research_interest.png)
