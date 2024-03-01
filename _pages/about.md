@@ -18,7 +18,7 @@ My current research interests involve quantum information science, with a focus 
 Some of the topics that I am actively considering are
 * Quantum linear algebra and its applications
 * Understanding quantum many-body systems via the lens of (theoretical) computer science
-* Mechanics explanation of large AI models
+* Mechanical explanation of large AI models
   
 The polar star of my research direction is the *nature-intelligence interaction*.
 
