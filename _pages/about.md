@@ -36,20 +36,15 @@ All of my works are also available on my [ArXiv](https://scirate.com/Naixu-Guo/p
 * **N. Guo**, K. Mitarai and K. Fujii, *Nonlinear transformation of complex amplitudes via quantum singular value transformation*, [arxiv:2107.10764](https://arxiv.org/abs/2107.10764)
 
 
-Talks
+Talks and Conferences
 ======
 The attached slides only reflect the speaker's thoughts at that moment and probably consist of errors.
 
-## Conferences
-- Nonlinear transformation of complex amplitudes via quantum singular value transformation 
-
-  [Qleap AI workshop](https://drive.google.com/file/d/1Y0f48uYliyMXGqAIoS9RWPujcSc5euIi/view?usp=sharing), [TQC 21](https://drive.google.com/file/d/1cFB-CUBnA7koun60nT_IEEx4uFhnICk7/view?usp=sharing), [QIP 21](https://drive.google.com/file/d/184jUftu5RYpeL6bULCRj_wjWqxnI2Qqq/view?usp=sharing), [AQIS 20](https://drive.google.com/file/d/1H-jIOYfV-fKAgUWwQQ_7-luebPAsufhF/view?usp=sharing)
-  
-  
+ 
 ## Invited talks
 - Provable learning of quantum states with graphical models
   
-  Peking University
+  Peking University, QIP 24 poster
 
 - Estimating properties of a quantum state by importance-sampled operator shadows
 
@@ -57,4 +52,6 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation
 
-  Nagoya University [[Slides]](https://drive.google.com/file/d/1Zf-U_e8FYVwcK1CibgPA5IrKzNWyLzXS/view?usp=sharing) 
+  Nagoya University [[Slides]](https://drive.google.com/file/d/1Zf-U_e8FYVwcK1CibgPA5IrKzNWyLzXS/view?usp=sharing), [Qleap AI workshop](https://drive.google.com/file/d/1Y0f48uYliyMXGqAIoS9RWPujcSc5euIi/view?usp=sharing), [TQC 21 poster](https://drive.google.com/file/d/1cFB-CUBnA7koun60nT_IEEx4uFhnICk7/view?usp=sharing), [QIP 21 poster](https://drive.google.com/file/d/184jUftu5RYpeL6bULCRj_wjWqxnI2Qqq/view?usp=sharing), [AQIS 20](https://drive.google.com/file/d/1H-jIOYfV-fKAgUWwQQ_7-luebPAsufhF/view?usp=sharing)
+  
+  
