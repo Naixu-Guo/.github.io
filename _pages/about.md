@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am Naixu Guo (郭 乃绪), a Ph.D. student at [CQT](https://www.quantumlah.org/) (NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en).
-Daily, I usually use my secondary personal name Wenyuan (文渊).
 
 
 Research interests
