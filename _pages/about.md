@@ -43,7 +43,7 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
   JPMorgan Chase
 
-- Introduction about the recent machine learning trend
+- Introduction about the recent machine learning progress
 
   [CQT](https://drive.google.com/file/d/1b3c8Z0fXen33ysWhOAXc61Rm8g7o2RTl/view?usp=sharing)
 
