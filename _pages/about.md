@@ -39,18 +39,24 @@ Talks and Conferences
 ======
 The attached slides only reflect the speaker's thoughts at that moment and probably consist of errors.
 
- 
-## Invited talks
+- Quantum linear algebra is all you need for transformer architectures
+
+  JPMorgan Chase
+
+- Introduction about the recent machine learning trend
+
+  [CQT](https://drive.google.com/file/d/1b3c8Z0fXen33ysWhOAXc61Rm8g7o2RTl/view?usp=sharing)
+
 - Provable learning of quantum states with graphical models
   
-  Peking University, QIP 24 poster
+  Peking University, QIP 24
 
 - Estimating properties of a quantum state by importance-sampled operator shadows
 
-  CQT joint CS seminar, Westlake University
+  CQT, Westlake University
 
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation
 
-  Nagoya University [[Slides]](https://drive.google.com/file/d/1Zf-U_e8FYVwcK1CibgPA5IrKzNWyLzXS/view?usp=sharing), [Qleap AI workshop](https://drive.google.com/file/d/1Y0f48uYliyMXGqAIoS9RWPujcSc5euIi/view?usp=sharing), [TQC 21 poster](https://drive.google.com/file/d/1cFB-CUBnA7koun60nT_IEEx4uFhnICk7/view?usp=sharing), [QIP 21 poster](https://drive.google.com/file/d/184jUftu5RYpeL6bULCRj_wjWqxnI2Qqq/view?usp=sharing), [AQIS 20](https://drive.google.com/file/d/1H-jIOYfV-fKAgUWwQQ_7-luebPAsufhF/view?usp=sharing)
+  [Nagoya University](https://drive.google.com/file/d/1Zf-U_e8FYVwcK1CibgPA5IrKzNWyLzXS/view?usp=sharing), [Qleap AI](https://drive.google.com/file/d/1Y0f48uYliyMXGqAIoS9RWPujcSc5euIi/view?usp=sharing), [TQC 21](https://drive.google.com/file/d/1cFB-CUBnA7koun60nT_IEEx4uFhnICk7/view?usp=sharing), [QIP 21](https://drive.google.com/file/d/184jUftu5RYpeL6bULCRj_wjWqxnI2Qqq/view?usp=sharing), [AQIS 20](https://drive.google.com/file/d/1H-jIOYfV-fKAgUWwQQ_7-luebPAsufhF/view?usp=sharing)
   
   
