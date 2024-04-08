@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Naixu Guo (郭 乃绪), a Ph.D. student at [CQT](https://www.quantumlah.org/) (NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en).
+I am Naixu Guo (郭 乃绪), a Ph.D. student at [CQT](https://www.quantumlah.org/) (NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en). I received my bachelor in 2020 from Kyoto University. Later, I received my master in 2022 from Osaka University, advised by Keisuke Fujii and Kosuke Mitarai.
 
 
 Research interests
