@@ -24,7 +24,7 @@ Research intern experience
 
 * 2019.03 -- 2019.07: Research student
   * Kyoto University
-  * Supervisor: Keisuke Fujii and Kosuke Mitarai
+  * Supervisor: Keisuke Fujii 
   
 
 Honors, Awards, Fellowships
