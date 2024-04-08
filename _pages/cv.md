@@ -24,7 +24,7 @@ Research intern experience
 
 * 2019.03 -- 2019.07: Research student
   * Kyoto University
-  * Supervisor: Keisuke Fujii
+  * Supervisor: Keisuke Fujii and Kosuke Mitarai
   
 
 Honors, Awards, Fellowships
@@ -45,4 +45,4 @@ Honors, Awards, Fellowships
 Professional Service
 ======
 * Journal and Conference reviewer
-  * Quantum, PRX Quantum, QIP2023/2024, TQC2023
+  * Quantum, PRX Quantum, QIP2023/2024, TQC2023, QCTIP2024
