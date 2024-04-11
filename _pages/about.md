@@ -13,8 +13,8 @@ I am Naixu Guo (郭 乃绪), a Ph.D. student at [CQT](https://www.quantumlah.org
 
 Research interests
 ======
-My current research interests involve quantum information science.
 The polar star of my research direction is the interaction between nature and intelligence.
+To provide a meaningful scope, I currently focus on the interplay between quantum systems, representing nature, and statistical learning theory and machine learning, embodying intelligence.
 Some of the topics that I am actively considering are
 * Quantum linear algebra and its applications
 * Understanding quantum many-body systems via the lens of (theoretical) computer science
