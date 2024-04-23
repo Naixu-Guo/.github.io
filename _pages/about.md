@@ -18,7 +18,7 @@ To provide a meaningful scope, I currently focus on the interplay between quantu
 Some of the topics that I am actively considering are
 * Quantum linear algebra and its applications
 * Understanding quantum many-body systems via the lens of (theoretical) computer science
-* Mechanical interpretation of large AI models
+
   
 
 
