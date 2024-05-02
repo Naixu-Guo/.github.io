@@ -42,9 +42,9 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Quantum linear algebra is all you need for transformer architectures
 
-  JPMorgan Chase
+  JPMorgan Chase, [CQT](https://drive.google.com/file/d/1lT8meb_bFYDmnyXfGyX-SuW9JsVbgHJO/view?usp=sharing)
 
-- Introduction about modern machine learning 
+- Introduction to modern machine learning 
 
   [CQT](https://drive.google.com/file/d/1b3c8Z0fXen33ysWhOAXc61Rm8g7o2RTl/view?usp=sharing)
 
