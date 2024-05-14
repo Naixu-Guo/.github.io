@@ -40,9 +40,13 @@ Talks and Conferences
 ======
 The attached slides only reflect the speaker's thoughts at that moment and probably consist of errors.
 
+- Computational thinking in Quantum
+
+  NUS Physics, Wen wei Ho group
+
 - Quantum linear algebra is all you need for transformer architectures
 
-  JPMorgan Chase, [CQT](https://drive.google.com/file/d/1lT8meb_bFYDmnyXfGyX-SuW9JsVbgHJO/view?usp=sharing)
+  JPMorgan Chase, [CQT CS Seminar](https://drive.google.com/file/d/1lT8meb_bFYDmnyXfGyX-SuW9JsVbgHJO/view?usp=sharing)
 
 - Introduction to modern machine learning 
 
@@ -54,7 +58,7 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Estimating properties of a quantum state by importance-sampled operator shadows
 
-  CQT, Westlake University
+  CQT joint Seminar, Westlake University
 
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation
 
