@@ -42,7 +42,7 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Computational thinking in Quantum
 
-  NUS Physics, Wen wei Ho group
+  NUS Physics (Wen wei Ho group)
 
 - Quantum linear algebra is all you need for transformer architectures
 
