@@ -47,4 +47,4 @@ Honors, Awards, Fellowships
 Professional Service
 ======
 * Journal and Conference reviewer
-  * Quantum, PRX Quantum, QIP2023/2024, TQC2023, QCTIP2024
+  * Quantum, PRX Quantum, QIP2023/2024, TQC2023/2024, QCTIP2024
