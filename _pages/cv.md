@@ -22,11 +22,11 @@ Research intern experience
 ======
 * 2021.07 -- 2022.03: Research student
   * Nagoya University
-  * Supervisor: Francois Le Gall
+  * Advisor: Francois Le Gall
 
 * 2019.03 -- 2019.07: Research student
   * Kyoto University
-  * Supervisor: Keisuke Fujii 
+  * Advisor: Keisuke Fujii 
   
 
 Honors, Awards, Fellowships
