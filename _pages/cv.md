@@ -12,9 +12,11 @@ redirect_from:
 Education
 ======
 * B.E. in Applied Physics, Kyoto University, 2020
+  * Advisor: Takayuki Miyadera
 * M.E. in Electrical Engineering, Osaka University, 2022
-  * Supervisor: Keisuke Fujii
+  * Advisor: Keisuke Fujii
 * Ph.D in Computer Science(Quantum Information), National Univesity of Singapore, 2026 (expected)
+  * Advisor: Patrick Rebentrost, and Miklos Santha
 
 Research intern experience
 ======
