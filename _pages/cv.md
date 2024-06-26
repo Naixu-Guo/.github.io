@@ -18,13 +18,17 @@ Education
 * Ph.D in Computer Science(Quantum Information), National Univesity of Singapore, 2026 (expected)
   * Advisor: Patrick Rebentrost, and Miklos Santha
 
-Research intern experience
+Long-term visit/research experience
 ======
-* 2021.07 -- 2022.03: Research student
+* 2024.06 -- 2024.07
+  * RWTH Aachen & Free University of Berlin
+  * Advisor: Mario Berta & Jens Eisert
+  
+* 2021.07 -- 2022.03
   * Nagoya University
   * Advisor: Francois Le Gall
 
-* 2019.03 -- 2019.07: Research student
+* 2019.03 -- 2019.07
   * Kyoto University
   * Advisor: Keisuke Fujii 
   
