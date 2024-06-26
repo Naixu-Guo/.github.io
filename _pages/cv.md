@@ -50,5 +50,7 @@ Honors, Awards, Fellowships
 
 Professional Service
 ======
-* Journal and Conference reviewer
+* Conference & Workshop Program Committee
+  * Joint CQT-MCQST workshop
+* Journal and Conference Reviewer
   * Quantum, PRX Quantum, QIP2023/2024, TQC2023/2024, QCTIP2024
