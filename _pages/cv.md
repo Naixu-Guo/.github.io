@@ -18,7 +18,7 @@ Education
 * Ph.D in Computer Science(Quantum Information), National Univesity of Singapore, 2026 (expected)
   * Advisor: Patrick Rebentrost, and Miklos Santha
 
-Long-term visit/research experience
+Academic visit/research experience
 ======
 * 2024.06 -- 2024.07
   * RWTH Aachen & Free University of Berlin
