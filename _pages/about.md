@@ -46,7 +46,7 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Quantum linear algebra is all you need for transformer architectures
 
-  JPMorgan Chase, [CQT CS Seminar](https://drive.google.com/file/d/1lT8meb_bFYDmnyXfGyX-SuW9JsVbgHJO/view?usp=sharing)
+  JPMorgan Chase, [CQT CS Seminar](https://drive.google.com/file/d/1lT8meb_bFYDmnyXfGyX-SuW9JsVbgHJO/view?usp=sharing), RWTH Aachen (Institute for Quantum Information)
 
 - Introduction to modern machine learning 
 
@@ -54,11 +54,11 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Provable learning of quantum states with graphical models
   
-  Peking University, QIP 24
+  Peking University (Xiao Yuan group), QIP 24 (poster)
 
 - Estimating properties of a quantum state by importance-sampled operator shadows
 
-  CQT joint Seminar, Westlake University
+  CQT joint Seminar, Westlake University (Wei Zhu group)
 
 - Nonlinear transformation of complex amplitudes via quantum singular value transformation
 
