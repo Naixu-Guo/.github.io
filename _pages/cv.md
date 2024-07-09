@@ -22,7 +22,7 @@ Academic visit/research experience
 ======
 * 2024.06 -- 2024.07
   * RWTH Aachen & Free University of Berlin
-  * Advisor: Mario Berta & Jens Eisert
+  * Host: Mario Berta & Jens Eisert
   
 * 2021.07 -- 2022.03
   * Nagoya University
