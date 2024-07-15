@@ -46,7 +46,7 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Quantum linear algebra is all you need for transformer architectures
 
-  JPMorgan Chase, [CQT CS Seminar](https://drive.google.com/file/d/1lT8meb_bFYDmnyXfGyX-SuW9JsVbgHJO/view?usp=sharing), RWTH Aachen (Institute for Quantum Information)
+  JPMorgan Chase, [CQT CS Seminar](https://drive.google.com/file/d/1lT8meb_bFYDmnyXfGyX-SuW9JsVbgHJO/view?usp=sharing), RWTH Aachen (Institute for Quantum Information), Free University of Berlin (Jens Eisert group)
 
 - Introduction to modern machine learning 
 
