@@ -52,5 +52,6 @@ Professional Service
 ======
 * Conference & Workshop Program Committee
   * Joint CQT-MCQST workshop
-* Journal and Conference Reviewer
-  * Quantum, PRX Quantum, QIP2023/2024, TQC2023/2024, QCTIP2024
+* Reviewer
+  * Journal: Quantum, PRX Quantum, Physical Review Research, Quantum Machine Intelligence
+  * Conference: QIP2023/2024, TQC2023/2024, QCTIP2024
