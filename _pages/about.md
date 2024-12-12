@@ -10,7 +10,7 @@ redirect_from:
 
 I am Naixu Guo (郭 乃绪), a Ph.D. student at [CQT](https://www.quantumlah.org/) (NUS) advised by [Patrick Rebentrost](https://scholar.google.com/citations?user=XWHSBmUAAAAJ&hl=en) and [Miklos Santha](https://scholar.google.com.sg/citations?user=pER3wbkAAAAJ&hl=en). I received my bachelor in 2020 from Kyoto University. Later, I received my master in 2022 from Osaka University, advised by Keisuke Fujii and Kosuke Mitarai.
 
-More information can be seen in the [interview by CQT](https://www.quantumlah.org/about/highlight/2024-11-meet-guo-naixu).
+More information can be seen in this [interview by CQT](https://www.quantumlah.org/about/highlight/2024-11-meet-guo-naixu).
 
 Research interests
 ======
@@ -56,7 +56,11 @@ The attached slides only reflect the speaker's thoughts at that moment and proba
 
 - Provable learning of quantum states with graphical models
   
-  Peking University (Xiao Yuan group), QIP 24 (poster)
+  Peking University (Xiao Yuan group), QIP 24 (poster), [IPAM (by Patrick)](https://www.youtube.com/watch?v=GDKxhXmd0uA&t=1607s)
+
+- Quantum Alphatron: quantum advantage for learning with kernels and noise
+  
+  [IPAM (by Patrick)](https://www.youtube.com/watch?v=GDKxhXmd0uA&t=1607s)
 
 - Estimating properties of a quantum state by importance-sampled operator shadows
 
