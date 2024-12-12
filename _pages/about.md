@@ -23,9 +23,6 @@ Some of the topics that I am actively considering are
   
 
 
-
-[//]: # (![avatar](_pages/Research_interest.png)) 
-
 Publications
 ======
 All of my works are also available on my [ArXiv](https://scirate.com/Naixu-Guo/papers) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=r2I_WtAAAAAJ&view_op=list_works&gmla=AJsN-F4R90e-0IvThoZVAs4uhYFfG-2VP_Hbd4-qNcW5mjlNq_E1YFT_x18SVcVfvzNbs5mUamJeu5JO9TYKLj-oE7tjlBhtyFsy7fG-057qZH6Nj_YHmCg) pages.
