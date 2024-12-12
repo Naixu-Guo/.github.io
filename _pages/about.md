@@ -24,7 +24,7 @@ Some of the topics that I am actively considering are
 
 
 
-; ![avatar](_pages/Research_interest.png)
+[//]: # (![avatar](_pages/Research_interest.png)) 
 
 Publications
 ======
